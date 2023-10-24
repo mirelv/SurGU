@@ -1,1 +1,1 @@
-# SurGU2
+# SurGU
